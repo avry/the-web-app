@@ -63,7 +63,6 @@ const Theme = ( { state } ) => {
 				</Switch>
 			</MaxWidth>
 			<StyledFooter />
-			<CookieNotice />
 		</>
 	);
 };
