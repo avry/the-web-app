@@ -8,31 +8,6 @@ const settings = {
     }
   },
   "packages": [
-    // {
-    //   "name": "@frontity/mars-theme",
-    //   "state": {
-    //     "theme": {
-    //       "menu": [
-    //         [
-    //           "Home",
-    //           "/"
-    //         ],
-    //         [
-    //           "About Us",
-    //           "/abouting-us-anout/"
-    //         ],
-    //         [
-    //           "Blog",
-    //           "/most-glorious-leader-having-powers-beyond-imagination/"
-    //         ]
-    //       ],
-    //       "featured": {
-    //         "showOnList": false,
-    //         "showOnPost": false
-    //       }
-    //     }
-    //   }
-    // },
     {
       name: 'igmoweb-theme',
       state: {
