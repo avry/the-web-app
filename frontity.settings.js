@@ -19,8 +19,8 @@ const settings = {
             // [ 'Blog', '/secret/' ],
           ],
           codeMenu: [
-            [ 'What is Code', '/category/peanut' ],
-            [ "Please don't code", '/category/please-dont-code/' ],
+            [ "What I'm listening to", '/secret/' ],
+            [ "What I'm watching", '/secret/' ],
           ],
           featured: {
             showOnList: true,
