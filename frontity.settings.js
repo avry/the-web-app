@@ -19,8 +19,8 @@ const settings = {
             // [ 'Blog', '/secret/' ],
           ],
           codeMenu: [
-            [ "What I'm listening to", '/secret/' ],
-            [ "What I'm watching", '/secret/' ],
+            [ "My Jam", '/jam/' ],
+            // [ "What I'm watching", '/secret/' ],
           ],
           featured: {
             showOnList: true,
