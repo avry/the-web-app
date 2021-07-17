@@ -62,7 +62,7 @@ const Theme = ( { state } ) => {
 					<PageError when={ data.isError || data.isAuthor } />
 				</Switch>
 			</MaxWidth>
-			<StyledFooter />
+			{/* <StyledFooter /> */}
 		</>
 	);
 };
