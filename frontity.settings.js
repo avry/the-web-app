@@ -15,11 +15,11 @@ const settings = {
           topBannerPage: '/hola',
           menu: [
             [ 'Home', '/' ],
-            [ 'About us', '/abouting-us-anout/' ],
-            [ 'Blog', '/most-glorious-leader-having-powers-beyond-imagination/' ],
+            [ 'About me', '/about/' ],
+            // [ 'Blog', '/secret/' ],
           ],
           codeMenu: [
-            [ 'What is Code', '/category/what-is-code' ],
+            [ 'What is Code', '/category/peanut' ],
             [ "Please don't code", '/category/please-dont-code/' ],
           ],
           featured: {
@@ -33,6 +33,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
+          // "homepage":"/home",
           "api": "https://public-api.wordpress.com/wp/v2/sites/vis1na.wordpress.com"
         }
       }
