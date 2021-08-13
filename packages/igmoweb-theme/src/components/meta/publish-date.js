@@ -12,7 +12,7 @@ const PublishDate = ( { postDate } ) => {
 	const options = { year: 'numeric', month: 'short', day: 'numeric' };
 	return (
 		<Container className="publish-date">
-			{ date.toLocaleDateString( 'es-ES', options ) }
+			{ date.toLocaleDateString( 'en-US', options ) }
 		</Container>
 	);
 };

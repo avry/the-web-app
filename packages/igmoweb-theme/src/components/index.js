@@ -51,7 +51,7 @@ const Theme = ( { state } ) => {
 					rel="stylesheet"
 					type="text/css"
 				/>
-				<html lang="es" />
+				<html lang="en" />
 			</Head>
 			<StyledHeader />
 			<MaxWidth>

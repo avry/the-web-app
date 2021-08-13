@@ -12,7 +12,7 @@ const settings = {
       name: 'igmoweb-theme',
       state: {
         theme: {
-          topBannerPage: '/hola',
+          topBannerPage: '/hello-world',
           menu: [
             [ 'Home', '/' ],
             [ 'About me', '/about/' ],
