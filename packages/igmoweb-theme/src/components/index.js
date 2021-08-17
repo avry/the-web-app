@@ -39,7 +39,7 @@ const Theme = ( { state } ) => {
 				<link
 					href={ state.frontity.feed }
 					rel="alternate"
-					title="Ignacio Cruz Moreno » Feed"
+					title="Avery Tan, a personal/professional blog"
 					type="application/rss+xml"
 				/>
 				<meta
